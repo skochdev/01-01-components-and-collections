@@ -1,8 +1,8 @@
 {
-  "name": "cra-template-skochdev",
+  "name": "01-01-components-and-collections",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://skochdev.github.io/cra-template-skochdev/",
+  "homepage": "https://skochdev.github.io/01-01-components-and-collections/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
@@ -42,7 +42,8 @@
     "gh-pages": "^4.0.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "prop-types": "^15.8.1"
   },
   "lint-staged": {
     "*.js": "eslint --cache --fix",
